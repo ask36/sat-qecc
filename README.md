@@ -1,7 +1,7 @@
 # sat-qecc
 A python-based SAT solver for finding the distance of a quantum error correcting code (limited to CSS codes).
 
-The main file is a jupyter notebook release.ipynb. Just download ot and you're good to go!
+The main file is a jupyter notebook release.ipynb. Just download it and you're good to go!
 For full functionality, you will need some additional packages:
 - ldpc: https://github.com/quantumgizmos/ldpc/tree/main
 - pysat: https://pysathq.github.io/
